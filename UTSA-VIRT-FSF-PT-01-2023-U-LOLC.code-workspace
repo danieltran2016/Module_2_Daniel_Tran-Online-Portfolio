@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../UTSA-VIRT-FSF-PT-01-2023-U-LOLC"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Online_Portfolio"
+	}
+}
