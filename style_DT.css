@@ -1,0 +1,66 @@
+body {
+    background: rgba(15, 255, 15, 0.952);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.main-text{
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(12, 102, 12);
+    width: 100%;
+}
+
+images {
+    display: flex;
+    justify-content: space-between;
+    margin:20px 10px 20px 10px;
+    }
+
+.profile-picture {
+    width: 25%;
+    height: 25%;
+    object-fit: cover;
+    /* display:inline; */
+    padding: 0px;
+    border: 10px solid rgb(82, 223, 82);
+ }
+
+.main-text li a {
+    display: block;
+}
+
+section {
+    width: 75%;
+    background-color: lightgreen;
+    margin: 0 auto;
+    position: relative;
+    top: 0px;
+}
+
+h2 {
+    display: block;
+    text-align: left;
+    font-size: 20px;
+    padding: 5px;
+    margin: 20px;
+}
+
+ul li{
+    padding:10px;
+}
+
+li {
+    font-size: large;
+}
+
+p {
+    font-size: 20px;
+    margin: 5px;
+    padding: 20px;
+}
+
+
