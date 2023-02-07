@@ -81,3 +81,24 @@ p {
     border: 5px solid green;
 }
 
+navbar {
+    display:flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+}
+
+.navbar-button {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(18, 54, 212);
+    padding: 20px;
+}
+
+.mainbutton {
+    flex:1 0 200px;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+}
+
